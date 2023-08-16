@@ -8,3 +8,4 @@ console.log(person);
 // Old version
 console.log(className);
 var className = "Zebo";
+const age = "home";
